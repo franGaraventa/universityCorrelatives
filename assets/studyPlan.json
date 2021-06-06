@@ -1,0 +1,262 @@
+[
+  {
+    "year": 1,
+    "quarter": 1,
+    "subjects": [
+      {
+        "subjectId": 1,
+        "subjectName": "Introduccion a la Programacion I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 2,
+        "subjectName": "Analisis Matematico I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 3,
+        "subjectName": "Algebra I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 4,
+        "subjectName": "Quimica",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 1,
+    "quarter": 2,
+    "subjects": [
+      {
+        "subjectId": 5,
+        "subjectName": "Ciencias de la Computacion I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 6,
+        "subjectName": "Introduccion a la Programacion II",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 7,
+        "subjectName": "Algebra Lineal",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 8,
+        "subjectName": "Fisica General",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 9,
+        "subjectName": "Matematica Discreta",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 2,
+    "quarter": 1,
+    "subjects": [
+      {
+        "subjectId": 10,
+        "subjectName": "Ciencias de la Computacion II",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 11,
+        "subjectName": "Analisis y Diseño de Algoritmos I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 12,
+        "subjectName": "Introduccion a la Arquitectura de Sistemas",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 13,
+        "subjectName": "Analisis Matematico II",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 14,
+        "subjectName": "Electricidad y Magnetismo",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 2,
+    "quarter": 2,
+    "subjects": [
+      {
+        "subjectId": 15,
+        "subjectName": "Analisis y Diseño de Algoritmos II",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 16,
+        "subjectName": "Comunicacion de Datos I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 17,
+        "subjectName": "Probabilidad y Estadistica",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 18,
+        "subjectName": "Electronica Digital",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 19,
+        "subjectName": "Ingles",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 3,
+    "quarter": 1,
+    "subjects": [
+      {
+        "subjectId": 20,
+        "subjectName": "Programacion Orientada a Objetos",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 21,
+        "subjectName": "Estructura de Almacenamientos de Datos",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 22,
+        "subjectName": "Metodologias de Desarrollo de Software I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 23,
+        "subjectName": "Arquitectura de Computadoras I",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 3,
+    "quarter": 2,
+    "subjects": [
+      {
+        "subjectId": 24,
+        "subjectName": "Programacion Exploratoria",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 25,
+        "subjectName": "Base de Datos I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 26,
+        "subjectName": "Lenguajes de Programacion I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 27,
+        "subjectName": "Sistemas Operativos I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 28,
+        "subjectName": "Investigacion Operativa",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 4,
+    "quarter": 1,
+    "subjects": [
+      {
+        "subjectId": 29,
+        "subjectName": "Arquitectura de Computadoras y Tecnicas Digitales",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 30,
+        "subjectName": "Teoria de la Informacion",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 31,
+        "subjectName": "Comunicacion de Datos II",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 32,
+        "subjectName": "Introduccion al Calculo Diferencial e Integral",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 33,
+        "subjectName": "Ciclo de Especializacion (Aprox. 4 creditos)",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 4,
+    "quarter": 2,
+    "subjects": [
+      {
+        "subjectId": 34,
+        "subjectName": "Diseño de Sistemas de Software",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 35,
+        "subjectName": "Diseño de Compiladores I",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 36,
+        "subjectName": "Ciclo de Especializacion (Aprox. 12 creditos)",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 5,
+    "quarter": 1,
+    "subjects": [
+      {
+        "subjectId": 37,
+        "subjectName": "Ingenieria de Software",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 38,
+        "subjectName": "Ciclo de Especializacion (Aprox. 16 creditos)",
+        "subjectCorrelatives": null
+      }
+    ]
+  },
+  {
+    "year": 5,
+    "quarter": 2,
+    "subjects": [
+      {
+        "subjectId": 39,
+        "subjectName": "Practicas Profesionales Supervisadas",
+        "subjectCorrelatives": null
+      },
+      {
+        "subjectId": 40,
+        "subjectName": "Proyecto Final",
+        "subjectCorrelatives": null
+      }
+    ]
+  }
+]
